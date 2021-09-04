@@ -1,6 +1,6 @@
 # Knowledge_Graph_Papers
 
-
+Different from the previous model classification, this time, we classify the KGE model from the perspective of differernt math spaces.
 
 ## <img src="https://github.com/kgspace/KG_papers/blob/main/images/new.png" width="25" align="center"> Survey Paper
 
@@ -23,7 +23,7 @@
 ## <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25"> Journal and Conference Paper
 
 ### Vector Space
-- **Complex Vector Space**
+- ### Complex Vector Space
 1. **ComplEx: Complex Embeddings for Simple Link Prediction.**
 *Théo Trouillon, Johannes Welbl, Sebastian Riedel, Éric Gaussier and Guillaume Bouchard.* ICML 2016. [[paper]](http://proceedings.mlr.press/v48/trouillon16.pdf) [[code]](https://github.com/ttrouill/complex)
 
@@ -34,7 +34,7 @@
 *Zhiqing Sun, Zhi Hong Deng, Jian Yun Nie, Jian Tang.* ICLR 2019. [[paper]](https://openreview.net/pdf?id=HkgEQnRqYQ) [[code]](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
 
 
-- **Polar Coordinates**
+- ### Polar Coordinates
 
 1. **HAKE:Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction.**
 *Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang.* AAAI 2020. [[paper]](https://arxiv.org/abs/1911.09419)
