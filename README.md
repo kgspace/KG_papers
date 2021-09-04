@@ -1,8 +1,8 @@
 # Knowledge_Graph_Papers
 
-Different from the previous model classification, this time, we classify the KGE model from the perspective of differernt math spaces.
+<img src=https://github.com/kgspace/KG_papers/blob/main/images/thumb.png width="25" height="25" >Different from the previous model classification, this time, we classify the KGE model from the perspective of differernt **Mathematics Spaces**.
 
-## <img src="https://github.com/kgspace/KG_papers/blob/main/images/new.png" width="25" align="center"> Survey Paper
+## <img src="https://github.com/kgspace/KG_papers/blob/main/images/new.png" width="25" height="25"> Survey Paper
 
 1. **A Review of Relational Machine Learning for Knowledge Graphs.**
 *Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich.* Proceedings of the IEEE 2016. [[paper]](https://arxiv.org/pdf/1503.00759.pdf)
@@ -12,7 +12,7 @@ Different from the previous model classification, this time, we classify the KGE
 
 1. **A Survey on Knowledge Graph Embedding: Approaches, Applications and Benchmarks.** *Yuanfei Dai , Shiping Wang , Neal N. Xiong  and Wenzhong Guo.* Data Analysis in Intelligent Communication Systems(ICS) 2020 [[paper]](https://www.mdpi.com/2079-9292/9/5/750)
 
-1. <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25"  >**A Survey on Knowledge Graphs: Representation, Acquisition and Applications.** 
+1. <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25" >**A Survey on Knowledge Graphs: Representation, Acquisition and Applications.** 
 *Shaoxiong Ji, Shirui Pan, Erik Cambria, Pekka Marttinen, Philip S. Yu.*  IEEE Transactions on Neural Networks and Learning Systems 2021 [[paper]](https://arxiv.org/abs/2002.00388)
 
 
