@@ -36,7 +36,7 @@
 
 - ### Polar Coordinates
 
-1. **HAKE:Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction.**
+1. <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25" >**HAKE: Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction.**
 *Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang.* AAAI 2020. [[paper]](https://arxiv.org/abs/1911.09419)
 
 
