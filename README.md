@@ -84,6 +84,6 @@
 *Han Xiao, Minlie Huang, Xiaoyan Zhu.* ACL 2016. [[paper]](http://www.aclweb.org/anthology/P16-1219)
 
 
-
-
+## Mathematical Spaces
+<img src="https://github.com/kgspace/KG_papers/blob/main/images/spaces%20relation.png" width="800" height="400" align="center" >
 
