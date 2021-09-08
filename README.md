@@ -17,29 +17,7 @@
 
 
 
-
-
-
 ## <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25"> Journal and Conference Paper
-
-### Vector Space
-- ### Complex Vector Space
-1. **ComplEx: Complex Embeddings for Simple Link Prediction.**
-*Théo Trouillon, Johannes Welbl, Sebastian Riedel, Éric Gaussier and Guillaume Bouchard.* ICML 2016. [[paper]](http://proceedings.mlr.press/v48/trouillon16.pdf) [[code]](https://github.com/ttrouill/complex)
-
-1. **ComplEx extension: Knowledge Graph Completion via Complex Tensor Factorization.**
-*Théo Trouillon, Christopher R. Dance, Johannes Welbl, Sebastian Riedel, Éric Gaussier, Guillaume Bouchard.* JMLR 2017. [[paper]](https://arxiv.org/pdf/1702.06879.pdf)[[code]](https://github.com/ttrouill/complex)
-
-1. **RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space.**
-*Zhiqing Sun, Zhi Hong Deng, Jian Yun Nie, Jian Tang.* ICLR 2019. [[paper]](https://openreview.net/pdf?id=HkgEQnRqYQ) [[code]](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
-
-
-- ### Polar Coordinates
-
-1. <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25" >**HAKE: Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction.**
-*Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang.* AAAI 2020. [[paper]](https://arxiv.org/abs/1911.09419)
-
-
 
 ### Euclidean Space
 1. **TransE: Translating Embeddings for Modeling Multi-relational Data.**
@@ -82,6 +60,24 @@
 
 1. **TransG: A Generative Mixture Model for Knowledge Graph Embedding.**
 *Han Xiao, Minlie Huang, Xiaoyan Zhu.* ACL 2016. [[paper]](http://www.aclweb.org/anthology/P16-1219)
+
+### Other Special Spaces
+
+- ### Complex Vector Space
+1. **ComplEx: Complex Embeddings for Simple Link Prediction.**
+*Théo Trouillon, Johannes Welbl, Sebastian Riedel, Éric Gaussier and Guillaume Bouchard.* ICML 2016. [[paper]](http://proceedings.mlr.press/v48/trouillon16.pdf) [[code]](https://github.com/ttrouill/complex)
+
+1. **ComplEx extension: Knowledge Graph Completion via Complex Tensor Factorization.**
+*Théo Trouillon, Christopher R. Dance, Johannes Welbl, Sebastian Riedel, Éric Gaussier, Guillaume Bouchard.* JMLR 2017. [[paper]](https://arxiv.org/pdf/1702.06879.pdf)[[code]](https://github.com/ttrouill/complex)
+
+1. **RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space.**
+*Zhiqing Sun, Zhi Hong Deng, Jian Yun Nie, Jian Tang.* ICLR 2019. [[paper]](https://openreview.net/pdf?id=HkgEQnRqYQ) [[code]](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
+
+
+- ### Polar Coordinates Space
+
+1. <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25" >**HAKE: Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction.**
+*Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang.* AAAI 2020. [[paper]](https://arxiv.org/abs/1911.09419)
 
 
 ## Mathematical Spaces
