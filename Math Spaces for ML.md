@@ -5,6 +5,14 @@ Also, we try to explain the advantages and disadvantages in different Maths Spac
 ## Definition of Spaces and the relationship between them
 <img src="https://github.com/kgspace/KG_papers/blob/main/images/spaces%20relation.png" width="600" height="300" align="center" >
 
+## Advantages and Disadvantages of Different Mathematical Spaces
+### Advantages of learning in Banach spaces over Hilbert spaces
+- Firstly, there is essentially only one Hilbert space once the dimension of the space is fixed. This follows from the well-known fact that any two Hilbert
+spaces over C of the same dimension are isometrically isomorphic. Thus, compared to Hilbert spaces, Banach spaces possess much richer geometric structures, which are potentially useful for developing learning algorithms.
+- Secondly, in some applications, a norm from a Banach space is invoked without being induced from an inner product.
+- Thirdly, since many training data come with intrinsic structures that make them impossible to be embedded into a Hilbert space, learning algorithms based on RKHS may not work well for them.                
+-----------------------------------cited from **Reproducing Kernel Banach Spaces for Machine Learning 2009**
+
 
 ## Survey Paper
 1. **A Survey of Topological Machine Learning Methods.**
