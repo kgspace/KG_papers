@@ -5,13 +5,17 @@ Also, we try to explain the advantages and disadvantages in different Maths Spac
 ## Definition of Spaces and the relationship between them
 <img src="https://github.com/kgspace/KG_papers/blob/main/images/spaces%20relation.png" width="600" height="300" align="center" >
 
-## Advantages and Disadvantages of Different Mathematical Spaces
-### Advantages of learning in Banach spaces over Hilbert spaces
+## Learning in Different Mathematical Spaces
+### Learning in Banach spaces 
 - Firstly, there is essentially only one Hilbert space once the dimension of the space is fixed. This follows from the well-known fact that any two Hilbert
 spaces over C of the same dimension are isometrically isomorphic. Thus, compared to Hilbert spaces, Banach spaces possess much richer geometric structures, which are potentially useful for developing learning algorithms.
 - Secondly, in some applications, a norm from a Banach space is invoked without being induced from an inner product.
 - Thirdly, since many training data come with intrinsic structures that make them impossible to be embedded into a Hilbert space, learning algorithms based on RKHS may not work well for them.                
 -----------------------------------cited from **Reproducing Kernel Banach Spaces for Machine Learning 2009**
+
+### Learning in Hyperbolic Space
+- One of the defining characteristics of hyperbolic space is that it is in some sense larger than the more familiar Euclidean space; the area of a circle or volume of a sphere grows exponentially with its radius, rather than polynomially. This suggests that low-dimensional hyperbolic spaces may provide effective representations of data in ways that low-dimensional Euclidean spaces cannot. ------cited from **Neural Embeddings of Graphs in Hyperbolic Space 2017**
+- Hyperbolic space can be thought of as a continuous version of trees and as such it is naturally equipped to model **hierarchical structures.** For instance, it has been shown that any finite tree can be embedded into a finite hyperbolic space such that distances are preserved approximately. ----cited from **Poincaré Embeddings for Learning Hierarchical Representations 2017**
 
 
 ## Survey Paper
@@ -57,8 +61,15 @@ CVPR 2015 [[paper]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Reini
 1. **Machine-Learning-Based Hotspot Detection Using Topological Classification and Critical Feature Extraction.** *Yen-Ting Yu, Geng-He Lin, Iris Hui-Ru Jiang, Charles Chiang.* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 2015 
 [[paper]](https://ieeexplore.ieee.org/abstract/document/7001593)
 - ### Manifold 
-3. **Manifold for Machine Learning Assurance.** 
+1. **Manifold for Machine Learning Assurance.** 
 *Taejoon Byun, Sanjai Rayadurgam.* ICSE-NIER 2020 [[paper]](https://ieeexplore.ieee.org/abstract/document/9397537)
+
+1. **Poincaré Embeddings for Learning Hierarchical Representations.** *Maximilian Nickel, Douwe Kiela* NeurlPS 2017 [[paper]](https://arxiv.org/abs/1705.08039)
+
+1. **POINCAR´E GLOVE: HYPERBOLICWORD EMBEDDINGS.** *Alexandru Tifrea, Gary B´ecigneul, Octavian-Eugen Ganea* ICLR 2019 [[paper]](https://arxiv.org/abs/1810.06546)
+
+1. **Neural Embeddings of Graphs in Hyperbolic Space.** *Benjamin Paul Chamberlain, James Clough, Marc Peter Deisenroth* KDD 2017 [[paper]](https://arxiv.org/abs/1705.10359)
+
 ### Other Special Spaces
 
 
