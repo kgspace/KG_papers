@@ -72,6 +72,7 @@ CVPR 2015 [[paper]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Reini
 
 ### Other Special Spaces
 
-
+- ### Complex Vector Space
+- ### Polar Coordinates Space
 
 
