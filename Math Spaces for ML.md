@@ -5,17 +5,23 @@ Also, we try to explain the advantages and disadvantages in different Maths Spac
 ## Definition of Spaces and the relationship between them
 - ### Metric Space
 
-
-
+<img src="https://github.com/kgspace/KG_papers/blob/main/images/metric%20space.png" width="600" align="center" >
 
 - ### Normed Space
+- <img src="https://github.com/kgspace/KG_papers/blob/main/images/normed%20space.png" width="600" align="center" >
+
 - ### Inner Product Space
+<img src="https://github.com/kgspace/KG_papers/blob/main/images/Inner%20Product%20Space.png" width="600" align="center" >
+
 - ### Topological Space
+<img src="https://github.com/kgspace/KG_papers/blob/main/images/Topological%20Space.png" width="600" align="center" >
 
-
-
+- ### Relationship
 
 <img src="https://github.com/kgspace/KG_papers/blob/main/images/spaces%20relation.png" width="600" height="300" align="center" >
+<img src="https://github.com/kgspace/KG_papers/blob/main/images/spaces%20relation3.png" width="600" align="center" >
+
+
 
 ## Learning in Different Mathematical Spaces
 ### Learning in Banach spaces 
@@ -25,9 +31,13 @@ spaces over C of the same dimension are isometrically isomorphic. Thus, compared
 - Thirdly, since many training data come with intrinsic structures that make them impossible to be embedded into a Hilbert space, learning algorithms based on RKHS may not work well for them.                
 -----------------------------------cited from **Reproducing Kernel Banach Spaces for Machine Learning 2009**
 
-### Learning in Hyperbolic Space
+### Learning in Topological(Hyperbolic) Space
 - One of the defining characteristics of hyperbolic space is that it is in some sense larger than the more familiar Euclidean space; the area of a circle or volume of a sphere grows exponentially with its radius, rather than polynomially. This suggests that low-dimensional hyperbolic spaces may provide effective representations of data in ways that low-dimensional Euclidean spaces cannot. ------cited from **Neural Embeddings of Graphs in Hyperbolic Space 2017**
 - Hyperbolic space can be thought of as a continuous version of trees and as such it is naturally equipped to model **hierarchical structures.** For instance, it has been shown that any finite tree can be embedded into a finite hyperbolic space such that distances are preserved approximately. ----cited from **Poincaré Embeddings for Learning Hierarchical Representations 2017**
+
+### Learning in Probability Space
+- In this article, we want to show how both linear and nonlinear dependence in collected data can be exploited in a different latent space, in detail, the uniform probability space (UPS).This enables a deeper understanding of the underlying true distribution. Linear transformation schemes, copulas, and noncomplex neural network architectures are good candidates for such a purpose.  ----------cited from **Segmented Generative Networks: Data Generation in the Uniform Probability Space**
+- Formalizing and solving optimization problems over such —infinite dimensional, non-euclidean— probability spaces is conceptually challenging. In this work, we do so by means of gradient flows, a linchpin of applied mathematics for modeling dynamics in very general infinitedimensional spaces. -----cited from **Dataset Dynamics via Gradient Flows in Probability Space**
 
 
 ## Survey Paper
@@ -89,6 +99,12 @@ CVPR 2015 [[paper]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Reini
 1. **POINCAR´E GLOVE: HYPERBOLICWORD EMBEDDINGS.** *Alexandru Tifrea, Gary B´ecigneul, Octavian-Eugen Ganea* ICLR 2019 [[paper]](https://arxiv.org/abs/1810.06546)
 
 1. **Neural Embeddings of Graphs in Hyperbolic Space.** *Benjamin Paul Chamberlain, James Clough, Marc Peter Deisenroth* KDD 2017 [[paper]](https://arxiv.org/abs/1705.10359)
+
+### Probability Space
+1. **Segmented Generative Networks: Data Generation in the Uniform Probability Space.** *Nunzio A.Letizia, Andrea M.Tonello.* IEEE Transactions on Neural Networks and Learning Systems 2020 [[paper]](https://ieeexplore.ieee.org/abstract/document/9298471)
+
+1. **Dataset Dynamics via Gradient Flows in Probability Space.** *David Alvarez-Melis, Nicolò Fusi.*  PMLR 2021 
+[[paper]](https://proceedings.mlr.press/v139/alvarez-melis21a.html)
 
 ### Other Special Spaces
 
