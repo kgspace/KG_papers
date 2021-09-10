@@ -3,6 +3,18 @@ We aim to summary the Machine Learning Models from the perspective of Math Space
 Also, we try to explain the advantages and disadvantages in different Maths Spaces.
 
 ## Definition of Spaces and the relationship between them
+- ### Metric Space
+
+
+
+
+- ### Normed Space
+- ### Inner Product Space
+- ### Topological Space
+
+
+
+
 <img src="https://github.com/kgspace/KG_papers/blob/main/images/spaces%20relation.png" width="600" height="300" align="center" >
 
 ## Learning in Different Mathematical Spaces
