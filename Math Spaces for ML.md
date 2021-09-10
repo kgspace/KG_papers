@@ -60,7 +60,15 @@ CVPR 2015 [[paper]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Reini
 
 1. **Machine-Learning-Based Hotspot Detection Using Topological Classification and Critical Feature Extraction.** *Yen-Ting Yu, Geng-He Lin, Iris Hui-Ru Jiang, Charles Chiang.* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 2015 
 [[paper]](https://ieeexplore.ieee.org/abstract/document/7001593)
+
+- ### Hyperspherical Space(n-sphere)
+1. **Machine Learning Analysis of Complex Networks in Hyperspherical Space.** *María Pereda, Ernesto Estrada.* Physics and Society 2018 
+[[paper]](https://arxiv.org/abs/1804.05960)
+
 - ### Manifold 
+
+1. **Machine learning meets complex networks via coalescent embedding in the hyperbolic space.** *Alessandro Muscoloni, Josephine Maria Thomas, Sara Ciucci, Ginestra Bianconi & Carlo Vittorio Cannistraci.* Nature Communications 2017 [[paper]](https://www.nature.com/articles/s41467-017-01825-5)
+
 1. **Manifold for Machine Learning Assurance.** 
 *Taejoon Byun, Sanjai Rayadurgam.* ICSE-NIER 2020 [[paper]](https://ieeexplore.ieee.org/abstract/document/9397537)
 
@@ -73,6 +81,22 @@ CVPR 2015 [[paper]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Reini
 ### Other Special Spaces
 
 - ### Complex Vector Space
+1. **RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space.** *Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang.* ICLR 2019
+[[paper]](https://arxiv.org/abs/1902.10197)
+
+
+
 - ### Polar Coordinates Space
+
+### Other Machine Learning Methods
+- ### Geometric Machine Learning
+1. **Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges.** *Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković.*
+arXiv 2021 [[paper]](https://arxiv.org/abs/2104.13478)
+
+- ### Quantum Machine Learning
+1. **Advances in quantum machine learning.** *Jeremy Adcock, Euan Allen, Matthew Day, Stefan Frick, Janna Hinchliff, Mack Johnson, Sam Morley-Short, Sam Pallister, Alasdair Price, Stasja Stanisic.* Quantum Physics 2015 [[paper]](https://arxiv.org/abs/1512.02900)
+
+1. **Quantum machine learning.** *Jacob Biamonte, Peter Wittek, Nicola Pancotti, Patrick Rebentrost, Nathan Wiebe & Seth Lloyd.* Nature 2017
+[[paper]](https://www.nature.com/articles/nature23474)
 
 
