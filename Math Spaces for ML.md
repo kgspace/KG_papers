@@ -24,7 +24,12 @@ Also, we try to explain the advantages and disadvantages in different Maths Spac
 
 
 ## Learning in Different Mathematical Spaces
-### Learning in Banach spaces 
+
+### Learning in Hilbert Space
+Hilbert space embeddings of conditional distributions are potentially useful in applications where conditional distributions are the key quantities of interest, such as regressing structured response variables. -------cited from **Hilbert Space Embeddings of Conditional Distributions
+with Applications to Dynamical Systems.**
+
+### Learning in Banach space
 - Firstly, there is essentially only one Hilbert space once the dimension of the space is fixed. This follows from the well-known fact that any two Hilbert
 spaces over C of the same dimension are isometrically isomorphic. Thus, compared to Hilbert spaces, Banach spaces possess much richer geometric structures, which are potentially useful for developing learning algorithms.
 - Secondly, in some applications, a norm from a Banach space is invoked without being induced from an inner product.
@@ -61,7 +66,7 @@ spaces over C of the same dimension are isometrically isomorphic. Thus, compared
 
 
 
-### Vector Space 
+### Inner Product Space 
 - ### Euclidean Space
 - ### Hilbert Space
 1. **Quantum machine learning in feature Hilbert spaces.** *Maria Schuld, Nathan Killoran.* Physical review letters 2019 
