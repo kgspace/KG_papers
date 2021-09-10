@@ -119,6 +119,7 @@ CVPR 2015 [[paper]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Reini
 1. **RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space.** *Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang.* ICLR 2019
 [[paper]](https://arxiv.org/abs/1902.10197)
 
+1. **Quaternion Neural Networks for Spoken Language Understanding** 
 
 
 - ### Polar Coordinates Space
