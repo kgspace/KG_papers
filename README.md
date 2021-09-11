@@ -42,6 +42,18 @@
 1. **TKRL: Representation Learning of Knowledge Graphs with Hierarchical Types.**
 *Ruobing Xie, Zhiyuan Liu, Maosong Sun.* IJCAI 2016. [[paper]](http://www.thunlp.org/~lzy/publications/ijcai2016_tkrl.pdf) [[code]](https://github.com/thunlp/TKRL)
 
+1. **PTransE: Modeling Relation Paths for Representation Learning of Knowledge Bases.**
+*Yankai Lin, Zhiyuan Liu, Huanbo Luan, Maosong Sun, Siwei Rao, Song Liu.* EMNLP 2015. [[paper]](https://arxiv.org/pdf/1506.00379.pdf)
+
+1. **RTransE: Composing Relationships with Translations.**
+*Alberto García-Durán, Antoine Bordes, Nicolas Usunier.* EMNLP 2015. [paper](http://www.aclweb.org/anthology/D15-1034.pdf)
+
+1. **STransE: A Novel Embedding Model of Entities and Relationships in Knowledge Bases.**
+*Dat Quoc Nguyen, Kairit Sirts, Lizhen Qu and Mark Johnson.* NAACL-HLT 2016. [paper](https://arxiv.org/pdf/1606.08140)
+
+1. **ITransF: An Interpretable Knowledge Transfer Model for Knowledge Base Completion.**
+*Qizhe Xie, Xuezhe Ma, Zihang Dai, Eduard Hovy.* ACL 2017. [paper](https://arxiv.org/pdf/1704.05908.pdf)
+
 
 
 ### Manifolds
