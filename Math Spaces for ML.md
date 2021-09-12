@@ -23,7 +23,7 @@ Also, we try to explain the advantages and disadvantages in different Maths Spac
 <img src="https://github.com/kgspace/KG_papers/blob/main/images/spaces%20relation4.png" width="400" align="center" >
 <img src="https://github.com/kgspace/KG_papers/blob/main/images/spaces%20relation3.png" width="600" align="center" >
 
-
+- ### Properties
 
 ## Learning in Different Mathematical Spaces
 
