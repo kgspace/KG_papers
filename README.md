@@ -48,7 +48,7 @@
 1. **RTransE: Composing Relationships with Translations.**
 *Alberto García-Durán, Antoine Bordes, Nicolas Usunier.* EMNLP 2015. [paper](http://www.aclweb.org/anthology/D15-1034.pdf)
 
-1. **TEKE: Text-Enhanced Representation Learning for Knowledge Graph.**
+1. **TEKE: Text-Enhanced Representation Learning for Knowledge Graph.<img src="https://github.com/kgspace/KG_papers/blob/main/images/question.jpg" width="25">**
 *Zhigang Wang, Juan-Zi Li.* IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/187.pdf)
 
 1. **STransE: A Novel Embedding Model of Entities and Relationships in Knowledge Bases.**
@@ -57,7 +57,8 @@
 1. **ITransF: An Interpretable Knowledge Transfer Model for Knowledge Base Completion.**
 *Qizhe Xie, Xuezhe Ma, Zihang Dai, Eduard Hovy.* ACL 2017. [paper](https://arxiv.org/pdf/1704.05908.pdf)
 
-
+1. **Improving Knowledge Graph Embedding Using Simple Constraints.**
+*Boyang Ding, Quan Wang, Bin Wang, Li Guo.* ACL 2018. [paper](https://aclweb.org/anthology/P18-1011) [code](https://github.com/iieir-km/ComplEx-NNE_AER)
 
 ### Manifolds
 1. **ManifoldE: From One Point to A Manifold: Knowledge Graph Embedding For Precise Link Prediction.**
@@ -93,6 +94,8 @@
 
 1. <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25" >**HAKE: Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction.**
 *Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang.* AAAI 2020. [[paper]](https://arxiv.org/abs/1911.09419)
+
+### Ordinary Linear Space
 
 
 ## Mathematical Spaces
