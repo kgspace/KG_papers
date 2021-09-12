@@ -48,6 +48,9 @@
 1. **RTransE: Composing Relationships with Translations.**
 *Alberto García-Durán, Antoine Bordes, Nicolas Usunier.* EMNLP 2015. [paper](http://www.aclweb.org/anthology/D15-1034.pdf)
 
+1. **TEKE: Text-Enhanced Representation Learning for Knowledge Graph.**
+*Zhigang Wang, Juan-Zi Li.* IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/187.pdf)
+
 1. **STransE: A Novel Embedding Model of Entities and Relationships in Knowledge Bases.**
 *Dat Quoc Nguyen, Kairit Sirts, Lizhen Qu and Mark Johnson.* NAACL-HLT 2016. [paper](https://arxiv.org/pdf/1606.08140)
 
