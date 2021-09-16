@@ -25,6 +25,28 @@ Also, we try to explain the advantages and disadvantages in different Maths Spac
 
 - ### Properties
 
+## Advantages and Disadvantages of Different Maths Spaces
+
+### Hilbert Space 
+**Advantages**
+- **Infinite** A Hilbert space might be infinite dimensional, but just like in R^n, we can talk about independent sets, orthogonality and bases. We can also project, decompose, linearly transform and everything else we can do in Euclidean space. Most practical computations in Hilbert spaces boil down to ordinary linear algebra.
+- **Bilinear Inner Product** The geometry of Hilbert spaces is well understood, and the bilinearity of the inner-product makes a thorough-going analysis possible.
+- **Self-dual** Hilbert spaces are self-dual. The dual space is also complete so it is a Hilbert space in its own right.
+- **Kernal Method** 
+- **Basic of Quantum Mechanics** The concept of Hilbert space is the mathematical underpinning of quantum mechanics, and the whole concept of quantum mechanics is discussed in this Hilbert space.The state vector that represents the state of a particle in quantum mechanics is an element in Hilbert space.
+
+**Disadvantages**
+- Most data do not come with any natural notion distance that can be induced from an inner-product. 距离由内积产生，很不自然
+- All Euclidean spaces of the same basis cardinality are isometrically isomorphic, there is, in a sense, only one inner-product space. 本质上只有一个希尔伯特空间
+
+
+
+### Banach Space
+**Advantages**
+- **Rich Geometric Structures** Banach spaces possess much richer geometric structures, which are potentially useful for developing learning algorithms.
+- **Uniformly smooth and Uniformly convex** A norm from a Banach space is invoked without being induced from an inner product. Banach spaces: the uniformly smooth and uniformly convex
+spaces.
+
 ## Learning in Different Mathematical Spaces
 
 ### Learning in Hilbert Space
