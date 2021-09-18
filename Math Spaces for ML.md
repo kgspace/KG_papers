@@ -27,12 +27,19 @@ Also, we try to explain the advantages and disadvantages in different Maths Spac
 
 ## Advantages and Disadvantages of Different Maths Spaces
 
+### Euclidean Space
+**Disadvantages**
+- **Ill-posed algebraic system**  As is the case that triples are much more than the sum of entities and relations, the number of variables are much less than the number of equations, which is typically an illposed algebraic system. Mathematically, an ill-posed algebraic system would commonly make the solutions imprecise and unstable.
+- **Over-strict geometric form** When many tail entities compete for only one point, there would be a major loss of objective function. -----from **Manifold**
+
+
 ### Hilbert Space 
 **Advantages**
 - **Infinite** A Hilbert space might be infinite dimensional, but just like in R^n, we can talk about independent sets, orthogonality and bases. We can also project, decompose, linearly transform and everything else we can do in Euclidean space. Most practical computations in Hilbert spaces boil down to ordinary linear algebra.
 - **Bilinear Inner Product** The geometry of Hilbert spaces is well understood, and the bilinearity of the inner-product makes a thorough-going analysis possible.
 - **Self-dual** Hilbert spaces are self-dual. The dual space is also complete so it is a Hilbert space in its own right.
 - **Kernal Method** 
+- **Angel can be defined by inner product**
 - **Basic of Quantum Mechanics** The concept of Hilbert space is the mathematical underpinning of quantum mechanics, and the whole concept of quantum mechanics is discussed in this Hilbert space.The state vector that represents the state of a particle in quantum mechanics is an element in Hilbert space.
 
 **Disadvantages**
@@ -44,8 +51,23 @@ Also, we try to explain the advantages and disadvantages in different Maths Spac
 ### Banach Space
 **Advantages**
 - **Rich Geometric Structures** Banach spaces possess much richer geometric structures, which are potentially useful for developing learning algorithms.
-- **Uniformly smooth and Uniformly convex** A norm from a Banach space is invoked without being induced from an inner product. Banach spaces: the uniformly smooth and uniformly convex
-spaces.
+- **Uniformly smooth and Uniformly convex** A norm from a Banach space is invoked without being induced from an inner product. Banach spaces: the uniformly smooth and uniformly convex spaces.
+
+### Topological Space
+**Advantages**
+- **Multi-scale, global, and intrinsic properties** As a complement to localised and generally more rigid geometric features, topological features are suitable to capture multi-scale, global, and intrinsic properties of data sets.  Instead of restricting the analysis to statistical descriptors, topological data analysis (TDA) aims to analyse data from a fundamentally different perspective by investigating this underlying manifold structure in an algebraic fashion.   ----from **A Survey of Topological Machine Learning Methods**
+
+- **Well-posed algebraic system** 
+- **CLear geometric form** ManifoldE alleviates this issue by expanding the position of golden triples from one point to a manifold such as a high-dimensional sphere. By this mean, ManifoldE avoids much noise to distinguish the true facts from the most possible false ones.       ----from **ManifoldE**
+
+### Group
+**Advantages**
+- **Never diverge unlimitedly** By choosing a compact Lie group as an embedding space, embeddings never diverge unlimitedly and regularization is no longer required.
+- **More scalable** TorusE is more scalable to large-size knowledge graphs because its complexity is the lowest compared with other methods, and we show that it is faster than TransE empirically because of the reduced calculation times without regularization.   ------ from **TorusE**
+
+- **Capture relation compositions.**
+- **Capture all desired properties**    -----from DihEdral
+
 
 ## Learning in Different Mathematical Spaces
 
@@ -67,6 +89,10 @@ spaces over C of the same dimension are isometrically isomorphic. Thus, compared
 ### Learning in Probability Space
 - In this article, we want to show how both linear and nonlinear dependence in collected data can be exploited in a different latent space, in detail, the uniform probability space (UPS).This enables a deeper understanding of the underlying true distribution. Linear transformation schemes, copulas, and noncomplex neural network architectures are good candidates for such a purpose.  ----------cited from **Segmented Generative Networks: Data Generation in the Uniform Probability Space**
 - Formalizing and solving optimization problems over such —infinite dimensional, non-euclidean— probability spaces is conceptually challenging. In this work, we do so by means of gradient flows, a linchpin of applied mathematics for modeling dynamics in very general infinitedimensional spaces. -----cited from **Dataset Dynamics via Gradient Flows in Probability Space**
+
+
+## Related Work
+
 
 
 ## Survey Paper
