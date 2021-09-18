@@ -43,8 +43,8 @@ Also, we try to explain the advantages and disadvantages in different Maths Spac
 - **Basic of Quantum Mechanics** The concept of Hilbert space is the mathematical underpinning of quantum mechanics, and the whole concept of quantum mechanics is discussed in this Hilbert space.The state vector that represents the state of a particle in quantum mechanics is an element in Hilbert space.
 
 **Disadvantages**
-- Most data do not come with any natural notion distance that can be induced from an inner-product. 距离由内积产生，很不自然
-- All Euclidean spaces of the same basis cardinality are isometrically isomorphic, there is, in a sense, only one inner-product space. 本质上只有一个希尔伯特空间
+- **The definition of distance is unnatural** Most data do not come with any natural notion distance that can be induced from an inner-product. 距离由内积产生，很不自然
+- **Only one Hilbert Space** All Euclidean spaces of the same basis cardinality are isometrically isomorphic, there is, in a sense, only one inner-product space. 本质上只有一个希尔伯特空间
 
 
 
