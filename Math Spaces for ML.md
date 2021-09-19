@@ -47,11 +47,15 @@ Also, we try to explain the advantages and disadvantages in different Maths Spac
 - **Only one Hilbert Space** All Euclidean spaces of the same basis cardinality are isometrically isomorphic, there is, in a sense, only one inner-product space. 本质上只有一个希尔伯特空间
 
 
-
 ### Banach Space
 **Advantages**
 - **Rich Geometric Structures** Banach spaces possess much richer geometric structures, which are potentially useful for developing learning algorithms.
 - **Uniformly smooth and Uniformly convex** A norm from a Banach space is invoked without being induced from an inner product. Banach spaces: the uniformly smooth and uniformly convex spaces.
+
+### Polar Coordinate System
+**Advantages**
+-**Semantic Hierarchy** HAKE maps entities into the polar coordinate system, where the radial coordinate corresponds to the modulus information and the angular coordinate corresponds to the phase information.  ----from **HAKE**
+- **Rotation-Invariant features**   ----from **Polar Coordinate Convolutional Neural Network: From Rotation-Invariance to Translation-Invariance.**
 
 ### Topological Space
 **Advantages**
@@ -60,13 +64,14 @@ Also, we try to explain the advantages and disadvantages in different Maths Spac
 - **Well-posed algebraic system** 
 - **CLear geometric form** ManifoldE alleviates this issue by expanding the position of golden triples from one point to a manifold such as a high-dimensional sphere. By this mean, ManifoldE avoids much noise to distinguish the true facts from the most possible false ones.       ----from **ManifoldE**
 
+- **Hierachical** 
 ### Group
 **Advantages**
 - **Never diverge unlimitedly** By choosing a compact Lie group as an embedding space, embeddings never diverge unlimitedly and regularization is no longer required.
 - **More scalable** TorusE is more scalable to large-size knowledge graphs because its complexity is the lowest compared with other methods, and we show that it is faster than TransE empirically because of the reduced calculation times without regularization.   ------ from **TorusE**
 
 - **Capture relation compositions.**
-- **Capture all desired properties**    -----from DihEdral
+- **Capture all desired properties**    -----from **DihEdral**
 
 
 ## Learning in Different Mathematical Spaces
@@ -91,9 +96,41 @@ spaces over C of the same dimension are isometrically isomorphic. Thus, compared
 - Formalizing and solving optimization problems over such —infinite dimensional, non-euclidean— probability spaces is conceptually challenging. In this work, we do so by means of gradient flows, a linchpin of applied mathematics for modeling dynamics in very general infinitedimensional spaces. -----cited from **Dataset Dynamics via Gradient Flows in Probability Space**
 
 
-## Related Work
+## Related Work(Spaces for ML)
+### Vector Space
+1. **Traversing Knowledge Graphs in Vector Space.** [[paper]](https://arxiv.org/abs/1506.01094)
+1. **Compositional Vector Space Models for Knowledge Base Completion.** [[paper]](https://arxiv.org/abs/1504.06662)
+
+### Complex Space
+1. **On the Equivalence of Holographic and Complex Embeddings for Link Prediction.** [[paper]](https://arxiv.org/pdf/1702.05563.pdf)
+1. 
 
 
+
+### Polar Coordinate System
+1. **Polar Coordinate Convolutional Neural Network: From Rotation-Invariance to Translation-Invariance.** [[paper]](https://ieeexplore.ieee.org/abstract/document/8802940/)
+1. **A Machine Learning Approach for Locating Boundaries of Liver Tumors in CT Images.** [[paper]] (https://ieeexplore.ieee.org/document/1698917)
+1. **Arbitrary-Oriented Object Detection in Remote Sensing Images Based on Polar Coordinates** [[paper]](https://ieeexplore.ieee.org/abstract/document/9272784)
+
+### Topological Space
+- **Hyperbolic Space**
+1. **Low Distortion Delaunay Embedding of Trees in Hyperbolic Plane.** [[paper]](https://homepages.inf.ed.ac.uk/rsarkar/papers/HyperbolicDelaunayFull.pdf)
+1. **Representation Tradeoffs for Hyperbolic Embeddings.** [[paper]](https://arxiv.org/abs/1804.03329)
+1. **Poincaré Embeddings for Learning Hierarchical Representations.** [[paper]](https://arxiv.org/abs/1705.08039)
+1. **Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry.** [[paper]](https://arxiv.org/abs/1806.03417)
+1. **Hyperbolic Attention Networks.** [[paper]](https://arxiv.org/abs/1805.09786)
+1. **POINCAR´E GLOVE: HYPERBOLICWORD EMBEDDINGS.** [[paper]](https://arxiv.org/abs/1810.06546)
+
+- **Manifold**
+1. **Riemannian Manifold Learning** [[paper]](https://ieeexplore.ieee.org/abstract/document/4359350)
+1. **Adaptive Manifold Learning** [[paper]](https://proceedings.neurips.cc/paper/2004/file/eb0ecdb070a1a0ac46de0cd733d39cf3-Paper.pdf)
+1. **Image reconstruction by domain-transform manifold learning** Nature [[paper]](https://www.nature.com/articles/nature25988)
+
+- **Group**
+1. **Improved Human Emotion Recognition Using Symmetry of Facial Key Points with Dihedral Group.** [[paper]](https://ieeexplore.ieee.org/document/7815141)
+1. **Lie Group Machine Learning** [[book]](https://www.degruyter.com/document/doi/10.1515/9783110499506/html)
+1. **Deep Learning on Lie Groups for Skeleton-Based Action Recognition.** 
+[[paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Huang_Deep_Learning_on_CVPR_2017_paper.html)
 
 ## Survey Paper
 1. **A Survey of Topological Machine Learning Methods.**
