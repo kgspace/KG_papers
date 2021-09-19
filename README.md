@@ -60,7 +60,7 @@
 1. **Improving Knowledge Graph Embedding Using Simple Constraints.**
 *Boyang Ding, Quan Wang, Bin Wang, Li Guo.* ACL 2018. [paper](https://aclweb.org/anthology/P18-1011) [code](https://github.com/iieir-km/ComplEx-NNE_AER)
 
-### Manifolds
+### Topological Space
 1. **ManifoldE: From One Point to A Manifold: Knowledge Graph Embedding For Precise Link Prediction.**
 *Han Xiao, Minlie Huang and Xiaoyan Zhu.* IJCAI 2016. [[paper]](https://arxiv.org/pdf/1512.04792.pdf)
 
@@ -69,6 +69,9 @@
 
 1. **DihEdral: Relation Embedding with Dihedral Group in Knowledge Graph.**
 *Canran Xu, Ruijiang Li.* ACL 2019. [[paper]](https://arxiv.org/abs/1906.00687)
+
+1. **MuRP:Multi-relational Poincaré Graph Embeddings.** 
+*Ivana Balažević, Carl Allen, Timothy Hospedales.* NIPS 2019 [[papaer]](https://arxiv.org/abs/1905.09791)
 
 ### Probability Space
 1. **KG2E: Learning to Represent Knowledge Graphs with Gaussian Embedding.**
