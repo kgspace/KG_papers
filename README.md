@@ -70,7 +70,7 @@
 1. **DihEdral: Relation Embedding with Dihedral Group in Knowledge Graph.**
 *Canran Xu, Ruijiang Li.* ACL 2019. [[paper]](https://arxiv.org/abs/1906.00687)
 
-1. **MuRP:Multi-relational Poincaré Graph Embeddings.** 
+1. **MuRP: Multi-relational Poincaré Graph Embeddings.** 
 *Ivana Balažević, Carl Allen, Timothy Hospedales.* NIPS 2019 [[papaer]](https://arxiv.org/abs/1905.09791)
 
 ### Probability Space
