@@ -1,0 +1,92 @@
+\documentclass[UTF8]{article} %article 文档
+\usepackage{graphicx}
+\usepackage{ctex}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\usepackage{cite}
+\usepackage{amsfonts}
+
+
+\title{Different Math Spaces for Machine Learning}
+\date{}
+
+
+
+\begin{document}
+\maketitle
+
+\section{Introduction}
+
+\section{Definition of Different Mathematics Spaces}
+
+
+\subsection{Vector Space}
+\textbf{Definition} A vector space is a non-empty set V equipped with two operations: \textit{Vector Addition} “+” and \textit{Scalar Multiplication} “$\cdot$”- which satisfy the two closure axioms  as well as the eight vector space axioms :\\
+\begin{itemize}
+    \item (\textbf{Closure under Vector Addition}) Given $\alpha,\beta$∈V, $\alpha + \beta$∈V.
+    \item (\textbf{Closure under scalar multiplication}) Given $\alpha$∈V and a scalar k, k$\alpha$∈V.
+\end{itemize}
+
+
+For $\alpha,\beta,\gamma$ arbitrary vectors in V, and k,l arbitrary scalars in R,
+\begin{itemize}
+    \item (\textbf{Commutativity}) $\alpha + \beta = \beta + \alpha$
+    \item (\textbf{Associativity of vector addition}) $(\alpha + \beta) + \gamma = \alpha + (\beta + \gamma)$
+    \item (\textbf{Additive Identity}) For all $\alpha$, $\textbf{0} + \alpha = \alpha$
+    \item (\textbf{Existence of additive inverse}) For any $\alpha$, there exists a $\beta$ such that $\alpha + \beta = 0$
+    \item (\textbf{Scalar multiplication identity}) $1\alpha = \alpha$
+    \item (\textbf{Associativity of scalar multiplication}) $k(l\alpha) = (kl)\alpha$
+    \item (\textbf{Distributivity of scalar sums}) $(k+l)\alpha = k\alpha + l\alpha $
+    \item (\textbf{Distributivity of vector sums}) $k(\alpha + \beta) = k\alpha + k\beta$
+
+\end{itemize}
+
+
+\subsection{Normed Vector Space}
+\textbf{Definition of Norm} Let X be a vector space over K. A \textbf{norm} on X is a map$\left \| \cdot  \right \| : X \rightarrow \left [0,\infty  \right )$that satisfies the following three properties:\\
+\begin{itemize}
+    \item (\textbf{Nonnegative}) For every vector x, $\left \| x \right \| \geq 0$
+    \item (\textbf{Positive Definiteness}) For every vetor x, $\left \| x \right \|$ =0 if and only if x=0
+    \item (\textbf{Positive Homogeneity}) For every vector x, and every scalar $\alpha$, $\left \| \alpha x \right \| = \left |\alpha   \right | \left \|  x \right \|$
+    \item (\textbf{Triangle Inequality}) For every vectors x and y, $\left \| x + y \right \| \leq \left \| x \right \| + \left \| y \right \|$
+
+\end{itemize}
+A \textbf{Normed Vector Space}is a pair $(X, \left \| \cdot  \right \|)$, where X is a vector space and $\left \| \cdot  \right \|$ is a norm on X.
+A \textbf{Banach Space} is a \textit{complete} normed space $(X,\|\cdot \|)$.
+
+
+\subsection{Inner Product Space}
+
+\textbf{Definition of Inner Product}An \textbf{inner product} on V is a mapping that takes each ordered pair (u,v) of elements of V to a number $\left \langle u,v \right \rangle \in F$ ($\left \langle \cdot,\cdot \right \rangle : V \times V \rightarrow F$)and has the following properties:
+
+\begin{itemize}
+    \item (\textbf{Positivity}) $\left \langle v,v \right \rangle \geq 0$ for all $v\in V$
+    \item (\textbf{Definiteness}) $\left \langle v,v \right \rangle = 0$ if and only if v=0
+    \item (\textbf{Homogeneity in the 1st argument}) $\left \langle  \lambda  u,v \right \rangle =\lambda \left \langle u,v \right \rangle$ For all $\lambda \in F$ and all u,v $\in V$
+    \item (\textbf{Additivity in the 1st argument}) $\left \langle   u+v,w\right \rangle = \left \langle u,w \right \rangle + \left \langle v,w \right \rangle$ For every u,v,w $\in$ V
+    \item (\textbf{Conjugate Symmetry}) $\left \langle   u,v\right \rangle =  \overline{\left \langle v,u \right \rangle}$ For every u,v $\in$ V
+\end{itemize}
+
+An \textbf{Inner Product Space} is a vector space V along with an inner product on V. A \textbf{Hilbert Space} is an inner product space that is complete with respect to the norm defined by the inner product
+
+\subsection{Topological Space}
+
+\textbf{Definition of topology} A \textbf{topology} on a nonempty set X is a collection of subsets of X, called \textit{open set},such that:
+\begin{itemize}
+    \item the empty set $\emptyset$ and the set X are open
+    \item the union of an arbitraty collection of open sets is open
+    \item the intersection of a finite number of open sets is open
+\end{itemize}
+A subset A of X is a \textit{closed set} if and only if its complement, $A^c = X\backslash A$, is open.
+More formally, a collection T of subsets of X is a topology on X if:
+\begin{itemize}
+    \item $\emptyset,X \in T$
+    \item if $G_{\alpha}\in T$ for $\alpha \in A$, then $\bigcup_{\alpha \in A}G_{\alpha}\in T$
+    \item if $G_{i}\in T$ for i=1 to n, then $\bigcap _{i \in A}G_{i}\in T$
+\end{itemize}
+We call the pair (X,T) a \textbf{Topologically Space};if T is clear from the context,then we often refer to X as a Topological Space.
+
+\end{document}
