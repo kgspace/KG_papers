@@ -112,6 +112,11 @@ spaces over C of the same dimension are isometrically isomorphic. Thus, compared
 1. **A Machine Learning Approach for Locating Boundaries of Liver Tumors in CT Images.** [[paper]] (https://ieeexplore.ieee.org/document/1698917)
 1. **Arbitrary-Oriented Object Detection in Remote Sensing Images Based on Polar Coordinates** [[paper]](https://ieeexplore.ieee.org/abstract/document/9272784)
 
+### Hilbert Space
+1. **A Hilbert Space Embedding for Distributions.** [[paper]](http://www.gatsby.ucl.ac.uk/~gretton/papers/SmoGreSonSch07.pdf)
+1. **Dimensionality Reduction for Supervised Learning with Reproducing Kernel Hilbert Spaces.** [[paper]](https://www.jmlr.org/papers/volume5/fukumizu04a/fukumizu04a.pdf)
+1. **Hilbert space embeddings of conditional distributions with applications to dynamical systems.** [[paper]](https://dl.acm.org/doi/abs/10.1145/1553374.1553497)
+
 ### Topological Space
 - **Hyperbolic Space**
 1. **Low Distortion Delaunay Embedding of Trees in Hyperbolic Plane.** [[paper]](https://homepages.inf.ed.ac.uk/rsarkar/papers/HyperbolicDelaunayFull.pdf)
