@@ -46,6 +46,12 @@ Also, we try to explain the advantages and disadvantages in different Maths Spac
 - **The definition of distance is unnatural** Most data do not come with any natural notion distance that can be induced from an inner-product. 距离由内积产生，很不自然
 - **Only one Hilbert Space** All Euclidean spaces of the same basis cardinality are isometrically isomorphic, there is, in a sense, only one inner-product space. 本质上只有一个希尔伯特空间
 
+### Complex Space
+**Advantages**
+- **Antisymmetric** , the dot product is not symmetric any more, and facts about antisymmetric relations can receive different scores depending on the ordering of the entities involved. Thus complex vectors can effectively capture antisymmetric relations while retaining the efficiency benefits of the dot product, that is linearity in
+both space and time complexity.  ----from **ComplEx**
+
+
 
 ### Banach Space
 **Advantages**
