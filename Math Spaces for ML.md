@@ -115,7 +115,7 @@ spaces over C of the same dimension are isometrically isomorphic. Thus, compared
 
 ### Polar Coordinate System
 1. **Polar Coordinate Convolutional Neural Network: From Rotation-Invariance to Translation-Invariance.** [[paper]](https://ieeexplore.ieee.org/abstract/document/8802940/)
-1. **A Machine Learning Approach for Locating Boundaries of Liver Tumors in CT Images.** [[paper]] (https://ieeexplore.ieee.org/document/1698917)
+1. **A Machine Learning Approach for Locating Boundaries of Liver Tumors in CT Images.** [[paper]](https://ieeexplore.ieee.org/document/1698917)
 1. **Arbitrary-Oriented Object Detection in Remote Sensing Images Based on Polar Coordinates** [[paper]](https://ieeexplore.ieee.org/abstract/document/9272784)
 
 ### Hilbert Space
