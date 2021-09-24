@@ -60,6 +60,9 @@
 1. **Improving Knowledge Graph Embedding Using Simple Constraints.**
 *Boyang Ding, Quan Wang, Bin Wang, Li Guo.* ACL 2018. [paper](https://aclweb.org/anthology/P18-1011) [code](https://github.com/iieir-km/ComplEx-NNE_AER)
 
+1. **InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions**
+*Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Nilesh Agrawal, Partha Talukdar* [paper](https://arxiv.org/abs/1911.00219)
+
 ### Topological Space
 1. **ManifoldE: From One Point to A Manifold: Knowledge Graph Embedding For Precise Link Prediction.**
 *Han Xiao, Minlie Huang and Xiaoyan Zhu.* IJCAI 2016. [[paper]](https://arxiv.org/pdf/1512.04792.pdf)
