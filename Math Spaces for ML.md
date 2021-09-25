@@ -31,6 +31,8 @@ Also, we try to explain the advantages and disadvantages in different Maths Spac
 **Disadvantages**
 - **Ill-posed algebraic system**  As is the case that triples are much more than the sum of entities and relations, the number of variables are much less than the number of equations, which is typically an illposed algebraic system. Mathematically, an ill-posed algebraic system would commonly make the solutions imprecise and unstable.
 - **Over-strict geometric form** When many tail entities compete for only one point, there would be a major loss of objective function. -----from **Manifold**
+- **Limitations of geometric representations** Many types of complex data (e.g. graph data) from a multitude of fields (e.g. Biology, Network Science, Computer Graphics or Computer Vision) exhibit a highly non-Euclidean latent anatomy
+
 
 
 ### Hilbert Space 
@@ -78,6 +80,8 @@ both space and time complexity.  ----from **ComplEx**
 
 - **Capture relation compositions.**
 - **Capture all desired properties**    -----from **DihEdral**
+
+- In machine learning, recently, hyperbolic representations greatly outperformed Euclidean embeddings for hierarchical, taxonomic or entailment data.   ---from **Hyperbolic Neural Network**
 
 
 ## Learning in Different Mathematical Spaces
