@@ -95,6 +95,8 @@
 1. **RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space.**
 *Zhiqing Sun, Zhi Hong Deng, Jian Yun Nie, Jian Tang.* ICLR 2019. [[paper]](https://openreview.net/pdf?id=HkgEQnRqYQ) [[code]](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
 
+1. **QuatE: Quaternion Knowledge Graph Embeddings.**
+*Shuai Zhang, Yi Tay, Lina Yao, Qi Liu.* Neurl 2019. [[paper]](https://arxiv.org/abs/1904.10281)
 
 - ### Polar Coordinates Space
 
