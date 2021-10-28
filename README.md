@@ -76,6 +76,9 @@
 1. **MuRP: Multi-relational Poincaré Graph Embeddings.** 
 *Ivana Balažević, Carl Allen, Timothy Hospedales.* NIPS 2019 [[papaer]](https://arxiv.org/abs/1905.09791)
 
+1. **HyperspherE: An Embedding Method for Knowledge Graph Completion Based on Hypersphere.**
+*Yao Dong, Xiaobo Guo, Ji Xiang, Kai Liu, Zhihao Tang* KSEM 2021 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-82136-4_42)
+
 ### Probability Space
 1. **KG2E: Learning to Represent Knowledge Graphs with Gaussian Embedding.**
 *Shizhu He, Kang Liu, Guoliang Ji and Jun Zhao.* CIKM 2015. [[paper]](https://pdfs.semanticscholar.org/941a/d7796cb67637f88db61e3d37a47ab3a45707.pdf)
