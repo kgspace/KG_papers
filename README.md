@@ -73,11 +73,27 @@
 1. **Hypersphere: An embedding method for knowledge graph completion based on hypersphere.**  
 *Yao Dong, Xiaobo GuoEmail, Ji Xiang, Kai Liu, Zhihao Tang*  2021 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-82136-4_42)
 
+1. **PairRE: Knowledge Graph Embeddings via Paired Relation Vectors.**  
+*Linlin Chao, Jianshan He, Taifeng Wang, Wei Chu* [[paper]](https://aclanthology.org/2021.acl-long.336.pdf)
+
 - ### Manifold
 1. **ManifoldE: From One Point to A Manifold: Knowledge Graph Embedding For Precise Link Prediction.**
 *Han Xiao, Minlie Huang and Xiaoyan Zhu.* IJCAI 2016. [[paper]](https://arxiv.org/pdf/1512.04792.pdf)
 
+1. **Hyperbolic Geometry is Not Necessary: Lightweight Euclidean-Based Models for Low-Dimensional Knowledge Graph Embeddings**  
+*Kai Wang, Yu Liu, Dan Lin, Quan Z. Sheng* EMNLP 2021 [[paper]](https://aclanthology.org/2021.findings-emnlp.42.pdf)
 
+1. **Hyperbolic Hierarchy-Aware Knowledge Graph Embedding for Link Prediction.**  
+*Zhe Pan, Peng Wang* EMNLP 2021 [[paper]](https://aclanthology.org/2021.findings-emnlp.251.pdf)
+
+1. **Knowledge Association with Hyperbolic Knowledge Graph Embeddings**  
+*Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang* EMNLP 2020 [[paper]](https://aclanthology.org/2020.emnlp-main.460.pdf)
+
+1. **Low-Dimensional Hyperbolic Knowledge Graph Embeddings.**  
+*Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi, Christopher Ré.* ACL 2020 [[paper]](https://aclanthology.org/2020.acl-main.617.pdf)
+
+1. **Riemannian TransE: Multi-relational Graph Embedding in Non-Euclidean Space**  
+*Atsushi Suzuki, Yosuke Enokida, Kenji Yamanishi* ICLR 2019 reject [[paper]](https://openreview.net/pdf?id=r1xRW3A9YX)
 ### Algebraic Structure
 
 - ### Real Vector Space
@@ -96,6 +112,11 @@ The same as cartesian coordinate below
 1. **QuatE: Quaternion Knowledge Graph Embeddings.**
 *Shuai Zhang, Yi Tay, Lina Yao, Qi Liu.* Neurl 2019. [[paper]](https://arxiv.org/abs/1904.10281)
 
+1. **BiQUE: Biquaternionic Embeddings of Knowledge Graphs.**  
+*Jia Guo and Stanley Kok*  EMNLP 2021 [[paper]](https://aclanthology.org/2021.emnlp-main.657.pdf)
+
+1. **Dual Quaternion Knowledge Graph Embeddings.**  
+*Zongsheng Cao et.al* AAAI 2021 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16850)
 
 - ### Group
 1. **TorusE: Knowledge Graph Embedding on a Lie Group.**
@@ -115,9 +136,16 @@ The same as cartesian coordinate below
 1. **TransG: A Generative Mixture Model for Knowledge Graph Embedding.**
 *Han Xiao, Minlie Huang, Xiaoyan Zhu.* ACL 2016. [[paper]](http://www.aclweb.org/anthology/P16-1219)
 
+
+
+
+
 - ### Eulidean Space
 The same as cartesian system below
 
+- ### Other
+1. **Knowledge Graph Representation Learning using Ordinary Differential Equations.**
+*Mojtaba Nayyeri, Chengjin Xu, Franca Hoffmann, Mirza Mohtashim Alam, Jens Lehmann, Sahar Vahdati* [[paper]](https://aclanthology.org/2021.emnlp-main.750.pdf)
 
 ### Topological Space
 1. **ManifoldE: From One Point to A Manifold: Knowledge Graph Embedding For Precise Link Prediction.**
