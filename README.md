@@ -20,6 +20,7 @@
 ## <img src="https://github.com/kgspace/KG_papers/blob/main/images/hot.png" width="25" height="25"> Journal and Conference Paper
 
 ### Geometric Structure
+- ### 1) Euclidean Geometry
 - ### Cartesian Coordinate
 1. **TransE: Translating Embeddings for Modeling Multi-relational Data.**
 *Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, Jason Weston, Oksana Yakhnenko.*  NIPS 2013. [[paper]](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf) 
@@ -76,7 +77,11 @@
 1. **PairRE: Knowledge Graph Embeddings via Paired Relation Vectors.**  
 *Linlin Chao, Jianshan He, Taifeng Wang, Wei Chu* [[paper]](https://aclanthology.org/2021.acl-long.336.pdf)
 
-- ### Manifold
+1. **TransC: Differentiating Concepts and Instances for Knowledge Graph Embedding.**
+*Xin Lv, Lei Hou, Juanzi Li, Zhiyuan Liu*  EMNLP 2018 [[paper]](https://arxiv.org/pdf/1811.04588.pdf)
+
+
+- ### 2) Hyperbolic Geometry
 1. **ManifoldE: From One Point to A Manifold: Knowledge Graph Embedding For Precise Link Prediction.**
 *Han Xiao, Minlie Huang and Xiaoyan Zhu.* IJCAI 2016. [[paper]](https://arxiv.org/pdf/1512.04792.pdf)
 
@@ -94,6 +99,7 @@
 
 1. **Riemannian TransE: Multi-relational Graph Embedding in Non-Euclidean Space**  
 *Atsushi Suzuki, Yosuke Enokida, Kenji Yamanishi* ICLR 2019 reject [[paper]](https://openreview.net/pdf?id=r1xRW3A9YX)
+
 ### Algebraic Structure
 
 - ### Real Vector Space
