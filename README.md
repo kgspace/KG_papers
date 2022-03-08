@@ -85,6 +85,9 @@
 1. **MuRP: Multi-relational Poincaré Graph Embeddings.** 
 *Ivana Balažević, Carl Allen, Timothy Hospedales.* NIPS 2019 [[papaer]](https://arxiv.org/abs/1905.09791)
 
+1. **ATTH: Low-Dimensional Hyperbolic Knowledge Graph Embeddings**
+Ines Chami et.al  ACL 2020 [[paper]](https://arxiv.org/pdf/2005.00545.pdf)
+
 1. **ManifoldE: From One Point to A Manifold: Knowledge Graph Embedding For Precise Link Prediction.**
 *Han Xiao, Minlie Huang and Xiaoyan Zhu.* IJCAI 2016. [[paper]](https://arxiv.org/pdf/1512.04792.pdf)
 
